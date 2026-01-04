@@ -1,4 +1,6 @@
-# Dividend Vision — Project Files
+# 🎬 Dividend Vision — AI Video Pipeline
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ayou2529/Dividend_Vision/blob/main/dividend_vision_colab.ipynb)
 
 This directory contains the complete Dividend Vision system for generating stock-safe AI videos on Google Colab.
 
