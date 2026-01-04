@@ -1,0 +1,37 @@
+# Sample prompts for Dividend Vision
+# One prompt per line
+# Keep it simple — the system will enhance automatically
+# NO people, animals, buildings, or text
+
+# Water & Weather
+misty mountain valley at sunrise, golden hour lighting
+gentle ocean waves washing over smooth rocks on beach
+raindrops creating ripples on calm lake surface
+morning fog rolling through evergreen forest
+dark storm clouds moving across open plains
+
+# Landscapes
+autumn forest floor covered in orange and yellow fallen leaves
+slow moving clouds over rolling green hills
+snow-covered mountain peaks during winter
+desert sand dunes with wind creating patterns
+volcanic rock formations with steam rising
+
+# Close-ups & Textures
+water droplets on green leaf surface after rain
+ice crystals forming on pine needles
+moss-covered rocks with small waterfall
+wildflower meadow swaying in gentle breeze
+sand particles blowing across beach
+
+# Seasonal
+spring cherry blossom petals falling slowly
+summer wheat field moving in wind
+autumn leaves floating down onto forest path
+winter snow falling on evergreen branches
+
+# Abstract Nature
+sunset light reflecting on rippling water
+morning mist rising from calm river
+shadows of clouds moving across landscape
+golden hour light filtering through trees

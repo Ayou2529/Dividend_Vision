@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environments
+.venv/
+.venv310/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Project specific
+fix_notebook.py
+setup_env.bat
